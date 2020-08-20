@@ -17,6 +17,7 @@
 
 **Rest API**
 - [ ] Build [Library API](https://github.com/Efraa/library-core) with Golang.
+- [ ] Stuff...
 
 #### Resources
 
