@@ -1,10 +1,8 @@
 package main
 
-import "fmt"
-
-// import (
-// 	"fmt"
-// )
+import (
+	"fmt"
+)
 
 // La manera de exportar funciones o variables es declarandolos con la primera letra en Mayus
 
