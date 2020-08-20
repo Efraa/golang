@@ -15,6 +15,9 @@
 - [ ] Solve [1021 - Banknotes and Coins](https://www.urionlinejudge.com.br/judge/en/problems/view/1021) Algorithm with Golang.
 - [ ] Solve [1549 - Splitting the Coke](https://www.urionlinejudge.com.br/judge/en/problems/view/1549) Algorithm with Golang.
 
+> The solutions to these algorithmic problems are hosted in the
+> [Algorithms repository.](https://github.com/Efraa/Algorithms)
+
 **Rest API**
 - [ ] Build [Library API](https://github.com/Efraa/library-core) with Golang.
 - [ ] Stuff...
